@@ -93,6 +93,12 @@ Config.BlacklistedVehs = {
     [`rrocket`] = true,
     [`ruiner2`] = true,
     [`deluxo`] = true,
+    [`ambulance`] = true,
+    [`polmav`] = true,
+    [`barracks`] = true,
+    [`barracks2`] = true,
+    [`barracks3`] = true,
+    [`cargobob`] = true,
 }
 
 Config.BlacklistedPeds = {
@@ -101,7 +107,18 @@ Config.BlacklistedPeds = {
     [`s_m_y_cop_01`] = true,
     [`s_f_y_sheriff_01`] = true,
     [`s_f_y_cop_01`] = true,
+    [`s_f_y_ranger_01`] = true,
     [`s_m_y_hwaycop_01`] = true,
+    [`s_m_m_snowcop_01`] = true,
+    [`s_m_m_security_01`] = true,
+    [`csb_cop`] = true,
+    [`s_m_m_paramedic_01`] = true,
+    [`s_m_m_doctor_01`] = true,
+    [`s_m_m_fibsec_01`] = true,
+    [`s_m_y_marine_01`] = true,
+    [`s_m_y_marine_02`] = true,
+    [`s_m_y_marine_03`] = true,
+    [`csb_ramp_marine`] = true,
 }
 
 Config.Teleports = {
