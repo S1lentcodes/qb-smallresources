@@ -99,6 +99,7 @@ Config.BlacklistedVehs = {
     [`barracks2`] = true,
     [`barracks3`] = true,
     [`cargobob`] = true,
+    [`frogger`] = true
 }
 
 Config.BlacklistedPeds = {
